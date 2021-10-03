@@ -1,29 +1,6 @@
 <template>
-<Header />
-<Second />
-<Third />
-<Forth />
-<Footer />
+  <router-view/>
 </template>
-
-<script>
-	import Header from './components/Header'
-	import Second from './components/Second'
-	import Third from './components/Third'
-	import Forth from './components/Forth'
-	import Footer from './components/Footer'
-
-export default {
-	name: 'App',
-	components: {
-    Header,
-    Second,
-    Third,
-	Forth,
-	Footer,
-  }
-}
-</script>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');

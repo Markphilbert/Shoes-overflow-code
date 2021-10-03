@@ -26,6 +26,7 @@ export default {
         display: flex;
         align-items: flex-end;
         justify-content: center;
+        pointer-events: none;
     }
     h1 {
         font-size: 7em;
@@ -33,6 +34,7 @@ export default {
         margin-right: .5em;
         line-height: 1em;
         text-transform: uppercase;
+        text-shadow: .2em .2em #00000005;
     }
     p {
         font-size: 1.5em;
@@ -40,14 +42,11 @@ export default {
         max-width: 46.5ch;
         margin: .5em 5em 0 0;
         line-height: 1.3em;
-    }
-    button {
-        position: relative;
-        margin-top: 25%;
+        text-shadow: .2em .2em #00000005;
     }
     @media only screen and (max-width: 1200px) {
         h1 {
-            margin-right: .05em;
+            margin-right: .016em;
         }
         p {
             margin-right: 3em;

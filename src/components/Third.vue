@@ -70,6 +70,8 @@ export default {
         min-height: 50em;
         max-width: 30em;
         background-color: #ffffff;
+        border: 2px solid #00000000;
+        border-radius: 4px;
     }
     #forthCard, #secondCard {
         margin-top: 12em;
@@ -80,13 +82,14 @@ export default {
     .card img {
         max-width: 10em;
         padding: 1em;
-        border: thin solid white;
+        border: thin solid #ffffff00;
         border-radius: 50%;
         background-color: rgb(219, 219, 61);
         margin-top: 25%;
     }
-    .card img:hover {
+    .card img:hover, h3:hover {
         transform: scale(1.03);
+        cursor: pointer;
     }
     .card:hover {
         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -102,6 +105,7 @@ export default {
         margin-top: 25%;
         line-height: 1.3em;
         color: #00000099;
+        pointer-events: none;
     }
     h3 {
         font-size: 1.6em;

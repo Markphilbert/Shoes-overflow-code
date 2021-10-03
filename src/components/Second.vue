@@ -66,11 +66,13 @@ export default {
         margin: 0 0 -1em -9em;
     }
     p {
+        text-shadow: .2em .2em #00000005;
         font-size: 1.5em;
         color: white;
         max-width: 40ch;
         margin-bottom: 3em;
         line-height: 1.3em;
+        pointer-events: none;
     }
     @media only screen and (max-width: 1600px) {
         .img1, .img2 {
