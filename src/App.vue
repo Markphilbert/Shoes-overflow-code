@@ -62,4 +62,9 @@ table {
             font-size: 7px;
         }
 }
+@media only screen and (max-width: 400px) {
+        #app{
+            font-size: 6px;
+        }
+}
 </style>

@@ -45,11 +45,9 @@ export default {
         text-shadow: .2em .2em #00000005;
     }
     @media only screen and (max-width: 1200px) {
-        h1 {
-            margin-right: .016em;
-        }
-        p {
-            margin-right: 3em;
+        mainContainer4 {
+            align-items: center;
+            margin: auto;
         }
     }
     @media only screen and (max-width: 840px) {

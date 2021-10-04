@@ -123,13 +123,50 @@ export default {
         }
     }
     @media only screen and (max-width: 900px) {
-        #mainContainer3{
+        #mainContainer3 {
             gap: 0em;
         }
     }
     @media only screen and (max-width: 650px) {
-        #mainContainer3{
-            display: none;
+        #mainContainer3 {
+            margin: auto;
+            gap: 10em;
+        }
+        #forthCard, #secondCard {
+        margin-top: 17em;
+        margin-bottom: 5em;
+        }
+        #firstCard, #thirdCard {
+            margin-top: -7em;
+            margin-bottom: 5em;
+        }
+        .card {
+        min-height: 40em;
+        max-width: 20em;
+        }
+        .content {
+        padding: .2em .8em;
+        }
+        p {
+            margin-top: 15%;
+        }
+        h3 {
+            margin-top: 15%;
+        }
+        button {
+            margin-top: 15%;
+            margin-bottom: 15%;
         }
     }
+    @media only screen and (max-width: 410px) {
+        #mainContainer3 {
+            gap: 5em;
+            margin: 0;
+        }
+        
+    }
+    @media only screen and (max-width: 350px) {
+        #mainContainer3 {
+            gap: 0em;
+        }}
 </style>
