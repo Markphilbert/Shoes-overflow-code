@@ -44,6 +44,14 @@ This Project was created with:
 <li>CSS</li>
 </ul>
 
+<h3>Optimizations</h3>
+
+I plan to get all links working. Currently I am working on setting up a mock terms and conditions and a privacy policy page. The contact page is in need of a form and then I will also implement the shop and get the shopping cart functioning. I also plan to make adjustments to the nav bar on mobile devices.
+
+<h3>What I Learned</h3>
+
+Through creating this project I learned several Vue topics which include but are not limited to components, vue router, transitions, how to launch a vue application after it is built and so much more. I truly have developed a love for this framework and have recently spent most of my time working with it recently. I found something called Quasar which is an extension of Vue that I plan to delve into soon and I would also like to build a simple Svelte app as I have heard many good things about it.
+
 <h3>Other Projects</h3>
 <ul>
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
