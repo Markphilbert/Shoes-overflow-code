@@ -46,7 +46,7 @@ This Project was created with:
 
 <h3>Optimizations</h3>
 
-I plan to get all links working. Currently I am working on setting up a mock terms and conditions and a privacy policy page. The contact page is in need of a form and then I will also implement the shop and get the shopping cart functioning. I also plan to make adjustments to the nav bar on mobile devices.
+I plan to get all links working. Currently I am working on setting up a mock terms and conditions and a privacy policy page. The contact page is in need of a form and then I will also implement the shop and get the shopping cart functioning. Making this project also got me to learn a bit about Firebase because I would like to add some sort of login for the shop and possibly a guest account that only requires an email at checkout. I also plan to make adjustments to the nav bar on mobile devices.  
 
 <h3>What I Learned</h3>
 
