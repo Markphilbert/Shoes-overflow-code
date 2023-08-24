@@ -54,8 +54,6 @@ Through creating this project I learned several Vue topics which include but are
 
 <h3>Other Projects</h3>
 <ul>
+<li><a href="https://github.com/Markphilbert/threeJS_Portfolio">HTML Email Clone</a></li>  
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
-<li><a href="https://github.com/Markphilbert/HTML-Email">HTML Email Clone</a></li>
-<li><a href="https://github.com/Markphilbert/megamanApiApp">Megaman API App</a></li>
-<li><a href="https://github.com/Markphilbert/bucketlist">Bucketlist CRUD App</a></li>
 </ul>
