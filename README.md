@@ -54,6 +54,7 @@ Through creating this project I learned several Vue topics which include but are
 
 <h3>Other Projects</h3>
 <ul>
-<li><a href="https://github.com/Markphilbert/threeJS_Portfolio">ThreeJS Portfolio Site</a></li>  
+<li><a href="https://github.com/Markphilbert/threeJS_Portfolio">ThreeJS Portfolio Site</a></li> 
+<li><a href="https://github.com/Markphilbert/Maze_Solver">Maze Solver</a></li>
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
 </ul>
